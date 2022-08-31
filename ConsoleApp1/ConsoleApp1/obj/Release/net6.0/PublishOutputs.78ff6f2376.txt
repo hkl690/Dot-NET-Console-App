@@ -1,0 +1,5 @@
+C:\Users\jinaw\Documents\GitHub\ConsoleApp1.exe
+C:\Users\jinaw\Documents\GitHub\ConsoleApp1.dll
+C:\Users\jinaw\Documents\GitHub\ConsoleApp1.deps.json
+C:\Users\jinaw\Documents\GitHub\ConsoleApp1.runtimeconfig.json
+C:\Users\jinaw\Documents\GitHub\ConsoleApp1.pdb
